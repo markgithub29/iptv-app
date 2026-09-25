@@ -1,0 +1,16 @@
+{
+  "appId": "com.streambox.iptv",
+  "appName": "StreamBox IPTV",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "launchAutoHide": true,
+      "backgroundColor": "#090b14"
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
